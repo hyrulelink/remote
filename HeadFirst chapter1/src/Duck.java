@@ -6,7 +6,7 @@ public abstract class Duck {
 	
 	public Duck()
 	{
-		System.out.println("Yolo");	
+		System.out.println("Yolocaust!");	
 	}
 	
 	public void setFlyBehaviour(FlyingBehaviour fb)
