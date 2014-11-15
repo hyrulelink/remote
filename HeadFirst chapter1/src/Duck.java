@@ -6,7 +6,7 @@ public abstract class Duck {
 	
 	public Duck()
 	{
-		
+		System.out.println("Yolo");	
 	}
 	
 	public void setFlyBehaviour(FlyingBehaviour fb)
